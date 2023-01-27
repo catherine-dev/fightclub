@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html>
 
+<html>
+<!DOCTYPE html>
 <head>
     <meta charset="utf-8">
     <title>Fight Club</title>
